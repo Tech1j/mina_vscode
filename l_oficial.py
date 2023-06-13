@@ -1,4 +1,8 @@
 from time import sleep
+#Copie e cole no VsCode :)
+#
+#
+#
 
 sleep(1)
 print('\nOi💌')
