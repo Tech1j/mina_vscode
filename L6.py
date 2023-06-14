@@ -1,5 +1,7 @@
 from time import sleep
 #Copie e cole no VsCode :)
+#Obs: Eu não sou de Lins kkk
+#Presta um pouquinho de atenção no código, que você descobre quem eu sou... 
 #
 #
 #
