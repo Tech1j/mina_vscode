@@ -2,7 +2,7 @@ from time import sleep
 #Copie e cole no VsCode :)
 #Obs: Eu não sou de Lins kkk
 #Presta um pouquinho de atenção no código, que você descobre quem eu sou... 
-# Qual é Luca?? Você é mais inteligente que isso, se você realmente quiser descobrir, vou lhe ajudar 1°f, e não, não foi o Joca que fez isso.
+# Qual é Luca? Você é mais inteligente que isso, 1° F 
 #
 #
 
